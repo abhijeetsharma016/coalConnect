@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559078829296",
+    "project_id": "coalconnect",
+    "storage_bucket": "coalconnect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559078829296:android:4f8154a03b3f2296b7e635",
+        "android_client_info": {
+          "package_name": "com.example.coalconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbucBACoQ7ykfGCFIJ5n6_pQPgzhXo6IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

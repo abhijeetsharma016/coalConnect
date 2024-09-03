@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textColor">#000000</color>
+    <color name="startColor">#53E88B</color>
+    <color name="endColor">#15BE77</color>
+    <color name="iconColor">#FEAD1D</color>
+    <color name="error_color">#FF5722</color>
+    <color name="semi_transparent_black">#80000000</color>
+
+    <color name="background">#F0F0F0</color>
+    <color name="scrollViewBackground">#FFFFFF</color>
+    <color name="titleColor">#2E7D32</color>
+    <color name="pointColor">#424242</color>
+</resources>
