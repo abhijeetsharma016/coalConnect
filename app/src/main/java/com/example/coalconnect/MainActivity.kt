@@ -9,6 +9,7 @@ import androidx.core.view.WindowInsetsCompat
 import androidx.navigation.findNavController
 import androidx.navigation.ui.setupWithNavController
 import com.example.coalconnect.databinding.ActivityMainBinding
+import com.example.coalconnect.fragments.notification_bottom_fragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
 class MainActivity : AppCompatActivity() {
@@ -22,6 +23,8 @@ class MainActivity : AppCompatActivity() {
         var bottomNav = findViewById<BottomNavigationView>(R.id.bottomNavigationView)
         bottomNav.setupWithNavController(NavController)
         binding.notificationButton.setOnClickListener{
+            val bottomSheetDialog = notification_bottom_fragment()
+            bottomSheetDialog.show(supportFragmentManager, "test")
         }
 
     }
