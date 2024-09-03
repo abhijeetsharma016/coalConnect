@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">coalConnect</string>
     <string name="default_web_client_id">559078829296-taq4dj08b56mpec1qtbk68amsa2n2soq.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
